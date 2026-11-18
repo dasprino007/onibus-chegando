@@ -1,0 +1,3 @@
+rm561662 Diego Leite Asprino - Fez todo javascript do projeto como pesquisou as ferramentas que foram usadas para este projeto
+rm567798 Carlos Raul Peixoto - testou o projeto e consertou alguns bugs
+rm567406 Luís Roberto Lanzoni Kihara Júnior - testou o projeto e ajudou no desenvolvimento do js e no style como criou a UI
